@@ -102,6 +102,14 @@ swaybg -i /dwl/assets/dwldwl.png -m fill &
 
 # 2. Iniciar a barra de status e notificações
 
+## ⚖️ Licença (License)
+
+Este projeto preserva integralmente os termos de licenciamento originais definidos pelos criadores do ecossistema e suas respectivas ferramentas de base. O código-fonte permanece distribuído sob as diretrizes estabelecidas nos arquivos correspondentes:
+
+* Licença Base do Gerenciador: `LICENSE`
+* Licenças de Componentes e Derivados: `LICENSE.dwm`, `LICENSE.sway` e `LICENSE.tinywl`
+
+*Nenhuma alteração foi realizada nos termos legais ou na propriedade intelectual dos autores originais.*
 
 # 3. Executar demais utilitários em segundo plano
 # (adicione seus programas aqui)
