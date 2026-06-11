@@ -102,13 +102,12 @@ swaybg -i /dwl/assets/dwldwl.png -m fill &
 
 # 2. Iniciar a barra de status e notificações
 
-## ⚖️ Licença (License)
-
 # 3. Executar demais utilitários em segundo plano
 # (adicione seus programas aqui)
 ```
 📦 **DEPLOY RÁPIDO DISPONÍVEL:** Se você quer apenas instalar os arquivos de configuração rápidos para os terminais (`kitty`) e configurar o ambiente gráfico baseado em Wayland com segurança, **[CLIQUE AQUI PARA ACESSAR O GUIA SIMPLECONFIG](./simpleconfig).**
 
+## ⚖️ Licença (License)
 
 Este projeto preserva integralmente os termos de licenciamento originais definidos pelos criadores do ecossistema e suas respectivas ferramentas de base. O código-fonte permanece distribuído sob as diretrizes estabelecidas nos arquivos correspondentes:
 
