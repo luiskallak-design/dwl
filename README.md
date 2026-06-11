@@ -17,9 +17,9 @@ Esta é a minha build customizada do **dwl** (Dynamic Window Manager para Waylan
 | Atalho | Ação |
 | :--- | :--- |
 | `Super + Enter` | Abre o terminal padrão (`Kitty`) |
-| `F1` | Abre a Sanfona (Terminal de Rodapé executando `zeus-bar-tui`) |
+| `F1` | Abre a Sanfona (Terminal de Rodapé executando ) |
 | `Super + D` | Abre o menu de aplicativos (`Fuzzel`) |
-| `Super + M` | Executa a barra do sistema (`Zeus-bar`) |
+
 
 ### 🪟 Gerenciamento de Janelas (Ações Rápidas)
 
