@@ -3,7 +3,7 @@
 Esta é a minha build customizada do **dwl** (Dynamic Window Manager para Wayland), focada em um visual moderno, layouts inteligentes e máxima produtividade dentro do ecossistema Archia.
 
 <p align="center">
-  <img src="./assets/dwldwl.png" alt="Demonstração do Meu DWL" width="100%">
+  <img src="assets/dwldwl.png" alt="Demonstração do Meu DWL" width="100%">
 </p>
 
 > 🖥️ **Nota sobre a tecla modificadora:** A tecla principal (`MODKEY`) configurada nesta build é a tecla **Super** (também conhecida como tecla Windows).
