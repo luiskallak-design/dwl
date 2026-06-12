@@ -80,7 +80,24 @@ Abra o terminal na pasta deste projeto e execute o comando abaixo para limpar bu
 ```bash
 sudo make clean install
 ```
+### Passo a passo detalhado
 
+Caso prefira executar cada etapa separadamente no terminal:
+
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/luiskallak-design/dwl.git
+   ```
+
+2. **Entre na pasta criada:**
+   ```bash
+   cd dwl
+   ```
+
+3. **Instale as configurações:**
+   ```bash
+   sudo make clean install
+   ```
 ---
 ## 🚀 Inicialização e Papel de Parede
 
